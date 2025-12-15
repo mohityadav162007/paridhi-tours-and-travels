@@ -7,8 +7,8 @@ export default function DomesticTrips() {
     {
       id: 1,
       title: "Ujjain – Omkareshwar",
-      duration: "2 Days / 1 Night",
-      highlights: ["Mahakaleshwar Temple", "Omkareshwar Jyotirlinga", "Darshan & Sightseeing"]
+      duration: "3 Days / 1 Night",
+      highlights: ["Mahakaleshwar Temple","Maheshwar", "Omkareshwar Jyotirlinga", "Darshan & Sightseeing"]
     },
     {
       id: 2,
@@ -21,7 +21,13 @@ export default function DomesticTrips() {
       title: "Indore – Pachmarhi",
       duration: "3 Days / 2 Nights",
       highlights: ["Hill Station", "Waterfalls", "Caves & Viewpoints"]
-    }
+    },
+    {
+      id: 4,
+      title: "Indore – Khajuraho",
+      duration: "4 Day Trip",
+      highlights: ["Orchha Fort", "Panna Tiger Reserve","Kandariya Mahadeva Temple","Historic Forts"]
+    },
   ];
 
   const getWhatsAppLink = (trip) => {
