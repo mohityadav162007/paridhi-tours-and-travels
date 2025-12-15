@@ -7,7 +7,7 @@ export default function DomesticTrips() {
     {
       id: 1,
       title: "Ujjain – Omkareshwar",
-      duration: "3 Days / 1 Night",
+      duration: "3 Days / 2 Night",
       highlights: ["Mahakaleshwar Temple","Maheshwar", "Omkareshwar Jyotirlinga", "Darshan & Sightseeing"]
     },
     {
