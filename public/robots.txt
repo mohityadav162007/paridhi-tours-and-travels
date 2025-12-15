@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maa-narmada-website.vercel.app/sitemap.xml
