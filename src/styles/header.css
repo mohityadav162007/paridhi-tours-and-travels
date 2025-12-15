@@ -1,0 +1,48 @@
+.site-header {
+  position: sticky;
+  top: 0;
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  z-index: 1000;
+}
+
+.header-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo a {
+  font-weight: 700;
+  font-size: 18px;
+  color: #111827;
+  text-decoration: none;
+}
+
+/* DESKTOP NAV */
+.nav {
+  display: flex;
+  gap: 20px;
+}
+
+.nav a,
+.nav button {
+  background: none;
+  border: none;
+  font-size: 15px;
+  color: #111827;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+/* HAMBURGER */
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 22px;
+  cursor: pointer;
+}
