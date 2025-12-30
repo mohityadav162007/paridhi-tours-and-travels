@@ -1,5 +1,5 @@
 export default function DomesticTrips() {
-  document.title = "Domestic Trips | Maa Narmada Tour & Travels";
+  document.title = "Domestic Trips | Paridhi Tour & Travels";
 
   const whatsappNumber = "919907545711";
 
@@ -25,7 +25,7 @@ export default function DomesticTrips() {
     {
       id: 4,
       title: "Indore – Khajuraho",
-      duration: "4 Day Trip",
+      duration: "4 Day / 3 Nights",
       highlights: ["Orchha Fort", "Panna Tiger Reserve","Kandariya Mahadeva Temple","Historic Forts"]
     },
   ];

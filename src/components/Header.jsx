@@ -1,3 +1,4 @@
+import { siteData } from "../data/siteData";
 import { useEffect, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 
@@ -20,14 +21,14 @@ export default function Header() {
   {/* Logo image (desktop + mobile) */}
   <img
     src="/images/logo.png"
-    alt="Maa Narmada Tour & Travels"
+    alt="Business Name"
     className="logo-image"
   />
 
   {/* Text logo (desktop only) */}
   <div className="logo-text">
-    <span className="logo-line-1">Maa Narmada</span>
-    <span className="logo-line-2"> Tours & Travels</span>
+    <span className="logo-line-1">Paridhi </span>
+    <span className="logo-line-2">Tours and Travels</span>
   </div>
 </Link>
 

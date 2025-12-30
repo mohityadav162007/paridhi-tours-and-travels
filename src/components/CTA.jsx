@@ -1,8 +1,11 @@
+import { siteData } from "../data/siteData";
+const phone = siteData.contact.phone;
+const whatsapp = siteData.contact.whatsapp;
 export default function CTA() {
   return (
     <div className="floating-cta">
       <a
-        href="tel:9907545711"
+        href={`tel:${phone}`} 
         className="cta-btn call"
         aria-label="Call Now"
       >
@@ -11,7 +14,7 @@ export default function CTA() {
       </a>
 
       <a
-        href="https://wa.me/919907545711"
+        href={`https://wa.me/${whatsapp}`}
         target="_blank"
         rel="noopener noreferrer"
         className="cta-btn whatsapp"

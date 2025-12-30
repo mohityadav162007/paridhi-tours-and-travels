@@ -13,8 +13,12 @@ export default function OurCars() {
       image: "/images/cars/dzire.jpg"
     },
     {
-      name: "Maharaja Tempo Traveller",
+      name: "Traveller",
       image: "/images/cars/tempo.jpg"
+    },
+    {
+      name: "Urbania 17 Seater",
+      image: "/images/cars/urbania.jpg"
     }
   ];
 

@@ -1,7 +1,7 @@
 export default function Gallery() {
-  document.title = "All Car Gallery | Maa Narmada Tour & Travels";
+  document.title = "All Car Gallery | Paridhi Tour & Travels";
 
-  const whatsappNumber = "919907545711";
+  const whatsappNumber = "919826020849";
 
   /* 
     HOW IMAGES WORK:
@@ -22,7 +22,6 @@ export default function Gallery() {
       "innova-3.jpg",
       "innova-4.jpg",
       "innova-5.jpg",
-      "innova-6.jpg"
     ]
   },
   {
@@ -41,7 +40,7 @@ export default function Gallery() {
     ]
   },
   {
-    carName: "Maharaja Tempo Traveller",
+    carName: "Traveller",
     images: [
       "tempo-1.jpg",
       "tempo-2.jpg",
@@ -55,6 +54,31 @@ export default function Gallery() {
       "tempo-10.jpg",
       "tempo-11.jpg",
       "tempo-12.jpg"
+    ]
+  },
+  {
+    carName: "Urbania 17 Seater",
+    images: [
+      "urbania-1.jpg",
+      "urbania-2.jpg",
+      "urbania-3.jpg",
+      "urbania-4.jpg",
+      "urbania-5.jpg",
+      "urbania-6.jpg",
+      "urbania-7.jpg",
+      "urbania-8.jpg",
+      "urbania-9.jpg",
+      "urbania-10.jpg",
+      "urbania-11.jpg",
+      "urbania-12.jpg",
+      "urbania-13.jpg",
+      "urbania-14.jpg",
+      "urbania-15.jpg",
+      "urbania-16.jpg",
+      "urbania-17.jpg",
+      "urbania-18.jpg",
+      "urbania-19.jpg",
+      "urbania-20.jpg"
     ]
   }
 ];
