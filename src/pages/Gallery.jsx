@@ -1,5 +1,5 @@
 export default function Gallery() {
-  document.title = "All Car Gallery | Paridhi Tour & Travels";
+  document.title = "All Car Gallery | Tempo Travellers";
 
   const whatsappNumber = "919826020849";
 

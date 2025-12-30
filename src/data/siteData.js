@@ -1,6 +1,6 @@
 export const siteData = {
   business: {
-    name: "Paridhi Tours and Travels",
+    name: "Tempo Travellers",
     tagline: "Car Rentals & Tours",
     city: "Indore",
     description:

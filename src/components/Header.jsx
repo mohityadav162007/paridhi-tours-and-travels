@@ -27,8 +27,8 @@ export default function Header() {
 
   {/* Text logo (desktop only) */}
   <div className="logo-text">
-    <span className="logo-line-1">Paridhi </span>
-    <span className="logo-line-2">Tours and Travels</span>
+    <span className="logo-line-1">Tempo </span>
+    <span className="logo-line-2">Traveller</span>
   </div>
 </Link>
 

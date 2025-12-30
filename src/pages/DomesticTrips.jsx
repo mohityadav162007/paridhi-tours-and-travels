@@ -1,5 +1,5 @@
 export default function DomesticTrips() {
-  document.title = "Domestic Trips | Paridhi Tour & Travels";
+  document.title = "Domestic Trips | Tempo Travellers";
 
   const whatsappNumber = "919907545711";
 
