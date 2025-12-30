@@ -121,7 +121,7 @@ export default function Home() {
                 display: "inline-block",
                 marginRight: 16,
                 padding: "14px 30px",
-                background: "#228fc5ff",
+                background: "#22c56eff",
                 borderRadius: 999,
                 color: "#ffffff",
                 fontWeight: 600,
