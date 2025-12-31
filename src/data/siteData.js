@@ -8,8 +8,8 @@ export const siteData = {
   },
 
   contact: {
-    phone: "09826020849",
-    whatsapp: "919826020849",
+    phone: "07725844722",
+    whatsapp: "917725844722",
     mapEmbed:
   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7361.333617521675!2d75.8700254!3d22.7034442!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fdb3cae020b5%3A0xbbdd1abc5533e5fd!2sParidhi%20Tour%20and%20Travels!5e0!3m2!1sen!2sin!4v1767088648236!5m2!1sen!2sin",
 

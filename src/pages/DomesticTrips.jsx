@@ -1,7 +1,7 @@
 export default function DomesticTrips() {
   document.title = "Domestic Trips | Tempo Travellers";
 
-  const whatsappNumber = "919907545711";
+  const whatsappNumber = "917725844722";
 
   const trips = [
     {

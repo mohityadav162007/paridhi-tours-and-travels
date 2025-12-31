@@ -1,7 +1,7 @@
 export default function Gallery() {
   document.title = "All Car Gallery | Tempo Travellers";
 
-  const whatsappNumber = "919826020849";
+  const whatsappNumber = "917725844722";
 
   /* 
     HOW IMAGES WORK:
