@@ -3,3 +3,5 @@ Allow: /
 
 
 
+
+Sitemap: https://tempotravelerindore.in/sitemap.xml
